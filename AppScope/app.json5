@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.example.cloudflashpayment",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:cloud_flash_app_icon",
+    "label": "$string:app_name"
+  }
+}

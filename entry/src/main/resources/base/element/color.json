@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "my_bg1",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "my_bg2",
+      "value": "#F6F6F6"
+    },
+    {
+      "name": "country_area",
+      "value": "#BEBEBE"
+    },
+    {
+      "name": "area_code",
+      "value": "#6D6D6D"
+    },
+    {
+      "name": "next_step",
+      "value": "#FBDCD6"
+    },
+    {
+      "name": "email_username_login",
+      "value": "#6882AA"
+    },
+    {
+      "name": "encountered_question",
+      "value": "#6882AA"
+    },
+    {
+      "name": "switch_login_approach",
+      "value": "#6882AA"
+    },
+    {
+      "name": "validate_code",
+      "value": "#BBBBBB"
+    },
+    {
+      "name": "countdown_sending",
+      "value": "#C4C4C4"
+    },
+    {
+      "name": "login",
+      "value": "#FBDCD6"
+    }
+  ]
+}

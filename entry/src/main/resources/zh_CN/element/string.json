@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "云闪付"
+    },
+    {
+      "name": "country_area",
+      "value": "国家/地区"
+    },
+    {
+      "name": "next_step",
+      "value": "下一步"
+    },
+    {
+      "name": "email_username_login",
+      "value": "邮箱/用户名登录"
+    },
+    {
+      "name": "encountered_problem",
+      "value": "遇到问题？"
+    },
+    {
+      "name": "country_china",
+      "value": "中国大陆"
+    },
+    {
+      "name": "area_china",
+      "value": "+86"
+    },
+    {
+      "name": "switch_login_approach",
+      "value": "换种方式登录"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "validate_code",
+      "value": "验证码"
+    },
+    {
+      "name": "please_input_sms_validate_code",
+      "value": "请输入短信验证码"
+    },
+    {
+      "name": "please_input_phone_number",
+      "value": "请输入手机号"
+    },
+    {
+      "name": "invalid_button_toast",
+      "value": "功能暂未实现"
+    },
+    {
+      "name": "send",
+      "value": "发送"
+    },
+    {
+      "name": "phone_number_login",
+      "value": "手机号码登录"
+    },
+    {
+      "name": "please_input_email_or_username",
+      "value": "请输入邮箱或用户名"
+    }
+  ]
+}

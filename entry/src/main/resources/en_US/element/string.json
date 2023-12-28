@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CloudFlashPayment"
+    },
+    {
+      "name": "country_area",
+      "value": "Country/Area"
+    },
+    {
+      "name": "next_step",
+      "value": "Next Step"
+    },
+    {
+      "name": "email_username_login",
+      "value": "Email/Username Login"
+    },
+    {
+      "name": "encountered_problem",
+      "value": "Encountering problems?"
+    },
+    {
+      "name": "country_china",
+      "value": "China"
+    },
+    {
+      "name": "area_china",
+      "value": "+86"
+    },
+    {
+      "name": "switch_login_approach",
+      "value": "Switching login approach"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "validate_code",
+      "value": "Validate Code"
+    },
+    {
+      "name": "please_input_sms_validate_code",
+      "value": "Please input SMS validate code"
+    },
+    {
+      "name": "please_input_phone_number",
+      "value": "Please input phone number"
+    },
+    {
+      "name": "invalid_button_toast",
+      "value": "The function is not implemented"
+    },
+    {
+      "name": "send",
+      "value": "Send"
+    },
+    {
+      "name": "phone_number_login",
+      "value": "Login with phone number"
+    },
+    {
+      "name": "please_input_email_or_username",
+      "value": "Please input email or username"
+    }
+  ]
+}

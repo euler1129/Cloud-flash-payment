@@ -1,0 +1,58 @@
+{
+  "app": {
+    "signingConfigs": [
+      //      {
+      //        "name": "default",
+      //        "type": "HarmonyOS",
+      //        "material": {
+      //          "certpath": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_160086000122792534.cer",
+      //          "storePassword": "0000001A79539B55B48828FF97211090F876C0155A15FC0F26BF05766D6A5EF2572EFAF83784B5F95AFF",
+      //          "keyAlias": "debugKey",
+      //          "keyPassword": "0000001A32B97532BE5506A74A980D4FF7E40CBED5C6670C9C5F68711B32937B491F9F9473C28FC02E5F",
+      //          "profile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_160086000122792534.p7b",
+      //          "signAlg": "SHA256withECDSA",
+      //          "storeFile": "C:\\Users\\Administrator\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_160086000122792534.p12"
+      //        }
+      //      }
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\cleve\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_70086000027202243.cer",
+          "storePassword": "00000019C271838A0CD72CEC72D5FF07DB68B76CEB55B5A35A21B571A746BC09F3921727F784B40D75",
+          "keyAlias": "debugKey",
+          "keyPassword": "00000019775D36C71E7A120D2FEFAA145FBE90453072AC1B50A5592AD9B09F0F8766D82C2A502185D6",
+          "profile": "C:\\Users\\cleve\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_70086000027202243.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\cleve\\.ohos\\config\\auto_debug_Cloud-flash-payment_com.example.cloudflashpayment_70086000027202243.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MyLibrary",
+      "srcPath": "./MyLibrary"
+    }
+  ]
+}

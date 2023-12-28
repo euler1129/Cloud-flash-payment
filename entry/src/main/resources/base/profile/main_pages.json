@@ -1,0 +1,29 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/shoppingMall/shoppingMall",
+    "pages/shoppingMall/detailsPage",
+    "pages/shoppingMall/shoppingCar",
+    "pages/shoppingMall/confirmOrder",
+    "pages/myAccount/MyAccount",
+    "pages/myAccount/Settings",
+    "pages/myAccount/IndividualCenter",
+    "pages/myAccount/RealNameAuth",
+    "pages/myAccount/MemberCenter",
+    "pages/login/LoginIndex",
+    "pages/login/LoginValidate",
+    "pages/login/SelectCountryOrArea",
+    "pages/login/LoginApproach",
+    "pages/login/QuestionList",
+    "pages/login/SelectPictureOrFile_TakePhoto_TestPage",
+    "pages/registerPage/register",
+    "pages/registerPage/countrySelection",
+    "pages/registerPage/verification",
+    "pages/preferentialPage/citySelection",
+    "pages/home/message/Service",
+    "pages/home/publish/CloudPublish",
+    "pages/home/CloudTabContent",
+    "pages/card/AddCard",
+    "pages/card/CardDetail"
+  ]
+}
